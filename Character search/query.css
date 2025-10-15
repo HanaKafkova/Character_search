@@ -1,0 +1,5 @@
+@media (width <= 650px) {
+  .search {
+    width: 80%;
+  }
+}
